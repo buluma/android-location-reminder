@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936677871061",
+    "project_id": "android-location-reminder",
+    "storage_bucket": "android-location-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936677871061:android:8c32c80280c87fc2b4c15c",
+        "android_client_info": {
+          "package_name": "com.locationreminder.buluma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936677871061-plh67t8g687rr5rnt8vkov44hnca8hsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt49A80kpabm6qwyK-HDyUudPbMZU4QRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936677871061-plh67t8g687rr5rnt8vkov44hnca8hsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
